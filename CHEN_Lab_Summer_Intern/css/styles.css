@@ -657,9 +657,9 @@ progress {
 }
 
 .img-profile {
-    width: 200px;   /* or any other size */
-    height: 200px;  /* make sure this is the same as width */
-    border-radius: 50%; /* this makes it round */
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
 }
 
 .img-thumbnail {
